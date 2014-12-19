@@ -13,6 +13,7 @@
 		98EB40D71A43B1D200978434 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 98EB40D61A43B1D200978434 /* Images.xcassets */; };
 		98EB40DA1A43B1D200978434 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 98EB40D81A43B1D200978434 /* LaunchScreen.xib */; };
 		98EB40E61A43B1D200978434 /* test_githubTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 98EB40E51A43B1D200978434 /* test_githubTests.swift */; };
+		98EB40F01A43B37F00978434 /* ade4720fec7d8f332b135c68af01bb03.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 98EB40EF1A43B37F00978434 /* ade4720fec7d8f332b135c68af01bb03.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		98EB40DF1A43B1D200978434 /* test githubTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "test githubTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		98EB40E41A43B1D200978434 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		98EB40E51A43B1D200978434 /* test_githubTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = test_githubTests.swift; sourceTree = "<group>"; };
+		98EB40EF1A43B37F00978434 /* ade4720fec7d8f332b135c68af01bb03.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = ade4720fec7d8f332b135c68af01bb03.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +92,7 @@
 		98EB40CD1A43B1D200978434 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				98EB40EF1A43B37F00978434 /* ade4720fec7d8f332b135c68af01bb03.jpg */,
 				98EB40CE1A43B1D200978434 /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -192,6 +195,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				98EB40F01A43B37F00978434 /* ade4720fec7d8f332b135c68af01bb03.jpg in Resources */,
 				98EB40D51A43B1D200978434 /* Main.storyboard in Resources */,
 				98EB40DA1A43B1D200978434 /* LaunchScreen.xib in Resources */,
 				98EB40D71A43B1D200978434 /* Images.xcassets in Resources */,
